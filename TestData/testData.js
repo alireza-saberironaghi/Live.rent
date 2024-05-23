@@ -1,6 +1,6 @@
 export const validRenterLoginInfo = {
     email: "spooky021@yahoo.com",
-    password: "ZXCvbn123@",
+    password: "adminadmin",
 }
 
 
